@@ -1,0 +1,1 @@
+This is job portal made for weekday's recruiting assignment. Made using react + vite and HTML/CSS.
